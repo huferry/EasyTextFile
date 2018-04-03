@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>EasyTextFile</id>
+    <version>1.0.0</version>
+    <title>EasyTextFile</title>
+    <authors>Ferry Utomo</authors>
+    <owners>Ferry Utomo</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension library to easily work with text files.</description>
+    <releaseNotes>First&amp;#x0020;release</releaseNotes>
+    <copyright>Ferry Utomo</copyright>
+    <tags>text file reading writing</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="" target="lib" />
+  </files>
+</package>
