@@ -2,7 +2,7 @@
 
 Example of use:
 
-```C
+```csharp
 
 // Saving to hello.txt using a single string content.
 "Hello, World!\nGood morning.".SaveToFile("hello.txt");
