@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>EasyTextFile</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>EasyTextFile</title>
     <authors>Ferry Utomo</authors>
     <owners>Ferry Utomo</owners>
@@ -13,7 +13,7 @@
 -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Extension library to easily work with text files.</description>
-    <releaseNotes>First&amp;#x0020;release</releaseNotes>
+    <releaseNotes>Added extension for FileInfo class.</releaseNotes>
     <copyright>Ferry Utomo</copyright>
     <tags>text file reading writing</tags>
     <dependencies>

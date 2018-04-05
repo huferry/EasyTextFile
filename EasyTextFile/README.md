@@ -2,7 +2,7 @@
 
 Example of use:
 
-```C
+```csharp
 
 // Saving to hello.txt using a single string content.
 "Hello, World!\nGood morning.".SaveToFile("hello.txt");
@@ -31,3 +31,15 @@ var oneLiner = new[] {
 var lines = "You jump,\nI jump.".ToLines(); // will be split to an array of 2 strings.
 
 ```
+
+New in version 1.0.1
+
+```csharp
+
+// FileInfo extension
+var fileInfo = new FileInfo("c:\\temp\\hello.txt");
+var content = fileInfo.ReadContent();
+
+```
+
+Upcoming in version 1.0.2 : reading/writing to CSV files.
